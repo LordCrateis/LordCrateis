@@ -35,9 +35,8 @@ I apply a high-altitude mindset to engineering. My current grind is dedicated to
 ---
 
 ### 📊 Engineering Activity
-![LordCrateis's Stats](https://github-readme-stats.vercel.app/api?username=LordCrateis&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordCrateis&layout=compact&theme=radical&hide_border=true)
-
+![LordCrateis's Stats](https://github-readme-stats.shion.dev/api?username=LordCrateis&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=LordCrateis&layout=compact&theme=radical&hide_border=true)
 ---
 
 > "Efficiency is the foundation of freedom."
