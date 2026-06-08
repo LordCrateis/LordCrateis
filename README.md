@@ -3,7 +3,7 @@
 **Developer focusing on High-Performance Data Engineering & Applied ML**
 Pursuing B.Tech in **AIDSML** | Building toward technical and financial autonomy.
 
-[🌐 shivambuilds.dev](https://shivambuilds.dev) | [👔 LinkedIn](YOUR_LINK)
+[🌐 shivambuilds.dev](https://shivambuilds.dev) | [👔 LinkedIn](https://www.linkedin.com/in/crateis/)
 
 ---
 
