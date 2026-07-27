@@ -29,7 +29,6 @@ I apply a high-altitude mindset to engineering. My current grind is dedicated to
 | :--- | :--- |
 | **Data Engine** | **Polars**, NumPy, SQL, PostgreSQL |
 | **Intelligence** | PyTorch, Scikit-learn, HuggingFace |
-| **Cloud/Ops** | AWS (Lambda/S3), Azure, Docker, Git |
 | **Languages** | Python (High-Performance), C++, JavaScript |
 
 ---
