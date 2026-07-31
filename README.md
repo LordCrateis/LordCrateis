@@ -3,7 +3,7 @@
 <div align="center">
 
 # Shivam Tamboli
-### `LordCrateis` 🏔️
+### `LordCrateis` 
 
 **Data Engineering · Applied ML · Cybersecurity**
 Pursuing B.Tech in **AIDSML** — building toward technical and financial autonomy.
@@ -18,7 +18,7 @@ Pursuing B.Tech in **AIDSML** — building toward technical and financial autono
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6F00FF&height=4&section=header" width="100%"/>
 
-### ⚡ Technical Focus
+###  Technical Focus
 
 I prioritize performance and scalability — systems lean enough to run serverless and fast enough to handle high-velocity data.
 
@@ -28,12 +28,12 @@ I prioritize performance and scalability — systems lean enough to run serverle
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6F00FF&height=4&section=header" width="100%"/>
 
-### 🚀 Featured Builds
+###  Featured Builds
 
 <table>
 <tr><td>
 
-**🥗 NutriCore AI**
+** NutriCore AI**
 ML-driven health prediction engine — a Gradient Boosting model served live behind a Flask API, with a training-aware loading state.
 `Flask` `scikit-learn` `Hugging Face Spaces`
 [Live →](https://nutricore.shivambuilds.dev)
@@ -41,28 +41,21 @@ ML-driven health prediction engine — a Gradient Boosting model served live beh
 </td></tr>
 <tr><td>
 
-**✍️ Akshar**
-Handwriting-identification web app pairing classical CV feature extraction (HOG/LBP) with a full-stack product build — part portfolio piece, part forensics exploration.
-`FastAPI` `OpenCV` `React` `Docker`
-
-</td></tr>
-<tr><td>
-
-**🚢 Forty Minutes to Forever**
+** Forty Minutes to Forever**
 A Titanic survival-prediction model wrapped in a branching interactive-fiction game — every narrative choice the player makes secretly doubles as a model feature.
 `scikit-learn` `Interactive Fiction` `Industrial Maritime Punk`
 
 </td></tr>
 <tr><td>
 
-**🛰️ Asset & Vulnerability Scanner**
+** Asset & Vulnerability Scanner**
 Automated recon and scanning tool — passive discovery via Shodan, active scanning via Nmap and Nuclei, with strict scope enforcement and PDF reporting.
 `Python` `Nmap` `Nuclei` `Shodan`
 
 </td></tr>
 <tr><td>
 
-**📦 Olist E-Commerce Analytics**
+** Olist E-Commerce Analytics**
 End-to-end analytics on 100k+ Brazilian e-commerce orders — SQL-driven EDA, a Polars notebook, and a 4-page Power BI dashboard.
 `PostgreSQL` `Power BI` `Polars`
 [Repo →](https://github.com/LordCrateis/olist-ecommerce-analytics)
@@ -72,7 +65,7 @@ End-to-end analytics on 100k+ Brazilian e-commerce orders — SQL-driven EDA, a 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6F00FF&height=4&section=header" width="100%"/>
 
-### 🏔️ Burn the Ships
+###  Burn the Ships
 
 > [!IMPORTANT]
 > I apply a high-altitude mindset to engineering. My current grind is dedicated to a singular trajectory: earning the sovereignty required to fund and lead a **7,000m Himalayan expedition in 2028.**
@@ -82,7 +75,7 @@ End-to-end analytics on 100k+ Brazilian e-commerce orders — SQL-driven EDA, a 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6F00FF&height=4&section=header" width="100%"/>
 
-### 🛠️ The Stack
+###  The Stack
 
 | Category | Tools |
 | :--- | :--- |
@@ -94,7 +87,7 @@ End-to-end analytics on 100k+ Brazilian e-commerce orders — SQL-driven EDA, a 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6F00FF&height=4&section=header" width="100%"/>
 
-### 📊 Engineering Activity
+###  Engineering Activity
 
 <div align="center">
 
