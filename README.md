@@ -33,7 +33,7 @@ I prioritize performance and scalability — systems lean enough to run serverle
 <table>
 <tr><td>
 
-** NutriCore AI**
+**NutriCore AI**
 ML-driven health prediction engine — a Gradient Boosting model served live behind a Flask API, with a training-aware loading state.
 `Flask` `scikit-learn` `Hugging Face Spaces`
 [Live →](https://nutricore.shivambuilds.dev)
@@ -41,21 +41,21 @@ ML-driven health prediction engine — a Gradient Boosting model served live beh
 </td></tr>
 <tr><td>
 
-** Forty Minutes to Forever**
+**Forty Minutes to Forever**
 A Titanic survival-prediction model wrapped in a branching interactive-fiction game — every narrative choice the player makes secretly doubles as a model feature.
 `scikit-learn` `Interactive Fiction` `Industrial Maritime Punk`
 
 </td></tr>
 <tr><td>
 
-** Asset & Vulnerability Scanner**
+**Asset & Vulnerability Scanner**
 Automated recon and scanning tool — passive discovery via Shodan, active scanning via Nmap and Nuclei, with strict scope enforcement and PDF reporting.
 `Python` `Nmap` `Nuclei` `Shodan`
 
 </td></tr>
 <tr><td>
 
-** Olist E-Commerce Analytics**
+**Olist E-Commerce Analytics**
 End-to-end analytics on 100k+ Brazilian e-commerce orders — SQL-driven EDA, a Polars notebook, and a 4-page Power BI dashboard.
 `PostgreSQL` `Power BI` `Polars`
 [Repo →](https://github.com/LordCrateis/olist-ecommerce-analytics)
