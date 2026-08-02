@@ -5,8 +5,8 @@
 # Shivam Tamboli
 ### `LordCrateis` 
 
-**Data Engineering · Applied ML · Cybersecurity**
-Pursuing B.Tech in **AIDSML** — building toward technical and financial autonomy.
+**Data Engineering · Applied ML**
+Pursuing B.Sc in **DS** — building toward technical and financial autonomy.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivambuilds.dev-6F00FF?style=for-the-badge)](https://shivambuilds.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-crateis-6F00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crateis/)
