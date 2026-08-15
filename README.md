@@ -1,49 +1,54 @@
+<!-- BANNER: Replace the src with a custom Figma SVG link later if you want a custom header -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="terminal banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Shivam%20Tamboli&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <p><b>BSc Data Science • Artificial Intelligence • Full-Stack Serverless Engineering</b></p>
+  <a href="https://www.shivambuilds.dev" target="_blank">shivambuilds.dev</a>
 </div>
 
 <br>
 
-<div align="center">
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- LEFT COLUMN: TECH STACK -->
+    <td width="40%" valign="top" style="border: none;">
+      <h3>/// Stack & Architecture</h3>
+      
+      <b>Data Engineering</b><br>
+      <img src="https://img.shields.io/badge/Polars-000000?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+      <br><br>
 
-[Portfolio](https://shivambuilds.dev) · [LinkedIn](https://www.linkedin.com/in/crateis/) · [GitHub](https://github.com/LordCrateis)
+      <b>Frontend</b><br>
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <br><br>
 
-</div>
+      <b>Cloud & Serverless</b><br>
+      <img src="https://img.shields.io/badge/AWS_Lambda-000000?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+      <img src="https://img.shields.io/badge/Jio_Functions-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="Jio Functions" />
+    </td>
 
-I build lean, serverless data systems — **Polars** over Pandas, few-shot learning and anomaly detection where signal is scarce, and infra on **AWS Lambda** / **Azure Functions** that scales without the overhead.
-
-### Builds
-
-| | |
-|---|---|
-| **[NutriCore AI](https://nutricore.shivambuilds.dev)** | Gradient-boosted health prediction engine, served live via Flask on Hugging Face Spaces. |
-| **Forty Minutes to Forever** | Titanic survival model wrapped in a branching interactive-fiction game — every choice doubles as a model feature. |
-| **[Olist E-Commerce Analytics](https://github.com/LordCrateis/olist-ecommerce-analytics)** | SQL-driven EDA on 100k+ orders, a Polars notebook, and a 4-page Power BI dashboard. |
-| **Asset & Vulnerability Scanner** | Passive recon via Shodan, active scanning via Nmap and Nuclei, with strict scope enforcement and PDF reporting. |
-
-<details>
-<summary><b>Stack</b></summary>
-<br>
-
-`Python` `C++` `JavaScript` &nbsp;·&nbsp; `Polars` `NumPy` `PostgreSQL` &nbsp;·&nbsp; `PyTorch` `scikit-learn` `Hugging Face` &nbsp;·&nbsp; `FastAPI` `Docker` `AWS Lambda` `Azure Functions` &nbsp;·&nbsp; `Nmap` `Shodan` `Nuclei`
-
-</details>
-
-### Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordCrateis/LordCrateis/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordCrateis/LordCrateis/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/LordCrateis/LordCrateis/output/snake-dark.svg" width="100%" />
-</picture>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LordCrateis&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&ring_color=6F00FF" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCrateis&layout=compact&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9&langs_count=6" height="165" alt="languages" />
-</div>
+    <!-- RIGHT COLUMN: CURRENT FOCUS -->
+    <td width="60%" valign="top" style="border: none;">
+      <h3>/// Active Development</h3>
+      <ul>
+        <li><b>Project Akshar:</b> Currently in the research and planning phase for a handwriting profile biometric machine learning model.</li>
+        <li><b>Data Pipelines:</b> Strictly sticking with Polars for heavy data optimization and engineering.</li>
+        <li><b>Serverless Deployment:</b> Managing a distributed architecture with two projects deployed on Jio Functions and two on AWS Lambda.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
+<!-- CONTACT SECTION -->
 <div align="center">
-<sub>Efficiency is the foundation of freedom.</sub>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
