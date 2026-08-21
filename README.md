@@ -13,7 +13,7 @@
 
 ---
 
-```txt
+
 > current obsession
 
 making machines do more
@@ -61,4 +61,4 @@ while alive:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F00FF,100:0D1117&height=5" width="100%"/> ```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F00FF,100:0D1117&height=5" width="100%"/>
