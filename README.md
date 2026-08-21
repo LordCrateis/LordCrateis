@@ -1,64 +1,227 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6F00FF&height=5" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,55:23070b,100:b91c1c&text=LORDCRATEIS&fontColor=f0f0f0&fontSize=48&fontAlignY=36&desc=DATA%20SYSTEMS%20%2F%20MACHINE%20LEARNING%20%2F%20ARCHITECTURE&descAlignY=58&descSize=13"/>
 
 <div align="center">
 
-# SHIVAM TAMBOLI
-### `LordCrateis`
+### Shivam Tamboli
 
-**data systems · machine learning · security**
+`engineering data · training models · building systems that survive deployment`
 
-[portfolio](https://shivambuilds.dev) / [linkedin](https://www.linkedin.com/in/crateis/) / [repos](https://github.com/LordCrateis?tab=repositories)
+<a href="https://shivambuilds.dev"><img src="https://img.shields.io/badge/SHIVAMBUILDS.DEV-b91c1c?style=flat-square&logo=firefox&logoColor=white"/></a>
+  <a href="https://github.com/LordCrateis"><img height="22" src="https://cdn.simpleicons.org/github/E8E3D6"/></a>
+   <a href="https://x.com/LordCrateis"><img height="22" src="https://cdn.simpleicons.org/x/E8E3D6"/></a>
+   <a href="https://bsky.app/profile/lordcrateis.bsky.social"><img height="22" src="https://cdn.simpleicons.org/bluesky/E8E3D6"/></a>
+   <a href="https://peerlist.io/lordcrateis"><img height="22" src="https://cdn.simpleicons.org/peerlist/E8E3D6"/></a>
+   <a href="https://hashnode.com/@lordcrateis"><img height="22" src="https://cdn.simpleicons.org/hashnode/E8E3D6"/></a>
+
+<sub><code>@lordcrateis</code> everywhere</sub>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="33%" valign="top">
 
-> current obsession
+### `01 // FLAMOLINA`
 
-making machines do more
-with less memory, less compute,
-and fewer stupid abstractions.
+Personal RAG system built to know my work without pretending to know everything.
 
-I work mostly with Python, Polars, PostgreSQL, scikit-learn and PyTorch.
+`FastAPI` · `Supabase` · `RAG`
 
-Interested in anomaly detection, few-shot learning, distributed data systems and building ML that survives outside a notebook.
+**Built around a 512 MB deployment ceiling.**
 
-./selected_work
+[→ repository](https://github.com/LordCrateis/flamolina-chatbot)
 
-FORTY MINUTES TO FOREVER
+</td>
+<td width="33%" valign="top">
+
+### `02 // FORTY MINUTES`
+
 Titanic survival ML disguised as interactive fiction.
-Your story choices are the model features.
 
-FLAMOLINA
-Personal RAG system built around my own knowledge base — designed under a 512 MB deployment ceiling.
+The choices are the features.
+The model decides what happens next.
 
-OLIST
-100k+ orders dissected with PostgreSQL, Polars and Power BI.
-repository →
+`ML` · `TypeScript` · `FastAPI`
 
-VULN SCANNER
-Shodan → Nmap → Nuclei → report.
-Recon with scope enforcement built in.
+[→ repository](https://github.com/LordCrateis/titanic-prediction-game)
 
-./elsewhere
+</td>
+<td width="33%" valign="top">
 
-I also write science fiction, design questionable imaginary technologies,
-read enormous books, and climb mountains.
+### `03 // CONTROL TOWER`
 
-Currently working through 20 progressively harder peaks.
+Flight-delay analytics turned into a route-risk simulation system.
 
-Target: 7,000m Himalaya — 2028.
+`SQL` · `Python` · `Power BI` · `ML`
 
-while alive:
-    build()
-    learn()
-    go_higher()
+[→ repository](https://github.com/LordCrateis/flight-delay-control-tower)
+
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top">
+
+### `04 // OLIST`
+
+100k+ Brazilian e-commerce orders torn apart with SQL and Polars.
+
+`PostgreSQL` · `Polars` · `Power BI`
+
+[→ repository](https://github.com/LordCrateis/olist-ecommerce-analytics)
+
+</td>
+<td width="33%" valign="top">
+
+### `05 // NUTRICORE`
+
+Gradient-boosted nutrition inference, served the moment the model finishes training.
+
+`Flask` · `scikit-learn` · `Docker`
+
+[→ repository](https://github.com/LordCrateis/NutriCore)
+
+</td>
+<td width="33%" valign="top">
+
+### `06 // AKSHAR`
+
+Handwriting identification built on classical feature extraction, not a black box.
+
+`FastAPI` · `OpenCV` · `scikit-learn`
+
+`HOG` · `LBP` features
+
+[→ repository](https://github.com/LordCrateis/akshar)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-<sub>github is the workshop. polished things live elsewhere.</sub>
+## `// THE TOOLS`
+
+<sub>the current machinery</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6F00FF,100:0D1117&height=5" width="100%"/>
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**CORE**
+
+`Python`
+`SQL`
+`R`
+`Bash`
+`JavaScript`
+`TypeScript`
+
+</td>
+<td width="25%" valign="top">
+
+**MACHINE LEARNING**
+
+`PyTorch`
+`TensorFlow`
+`scikit-learn`
+`HuggingFace`
+`XGBoost`
+`LightGBM`
+`Optuna`
+`MLflow`
+
+</td>
+<td width="25%" valign="top">
+
+**DATA OPS**
+
+`Pandas`
+`NumPy`
+`Polars`
+`Apache Spark`
+`Airflow`
+`dbt`
+`PostgreSQL`
+`BigQuery`
+
+</td>
+<td width="25%" valign="top">
+
+**ARCHITECTURE**
+
+`Docker`
+`FastAPI`
+`Flask`
+`GCP`
+`AWS`
+`Git`
+`CI/CD`
+`REST` · `gRPC`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,r,bash,js,ts,pytorch,tensorflow,postgres,docker,fastapi,flask,gcp,aws,git&theme=dark&perline=14" />
+
+<br><br>
+
+`POLARS` · `SPARK` · `AIRFLOW` · `DBT` · `BIGQUERY` · `XGBOOST` · `LIGHTGBM` · `OPTUNA` · `MLFLOW`
+
+</div>
+
+---
+
+<div align="center">
+
+### `// CURRENT SIGNAL`
+
+```text
+ENGINE       data systems / applied ML
+FOCUS        Polars · PyTorch · distributed data
+RESEARCH     anomaly detection · few-shot learning
+MODE         build → deploy → break → rebuild
+```
+
+<br>
+
+**20 progressively harder peaks. One Himalayan objective. 2028.**
+
+<br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=LordCrateis&bg_color=0d1117&color=e5e7eb&line=b91c1c&point=ef4444&area=true&area_color=7f1d1d&hide_border=true&custom_title=ACTIVITY%20%2F%2F%20TELEMETRY"/>
+
+<br>
+
+### `// OPEN CHANNELS`
+
+<a href="https://github.com/LordCrateis"><img height="25" src="https://cdn.simpleicons.org/github/E8E3D6"/></a>
+    <a href="https://x.com/LordCrateis"><img height="25" src="https://cdn.simpleicons.org/x/E8E3D6"/></a>
+    <a href="https://bsky.app/profile/lordcrateis.bsky.social"><img height="25" src="https://cdn.simpleicons.org/bluesky/E8E3D6"/></a>
+    <a href="https://peerlist.io/lordcrateis"><img height="25" src="https://cdn.simpleicons.org/peerlist/E8E3D6"/></a>
+    <a href="https://hashnode.com/@lordcrateis"><img height="25" src="https://cdn.simpleicons.org/hashnode/E8E3D6"/></a>
+
+<br>
+
+<sub>
+GITHUB · X · BLUESKY · PEERLIST · HASHNODE
+</sub>
+
+<br><br>
+
+<code>github is the workshop.</code>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0d1117,55:23070b,100:b91c1c"/>
