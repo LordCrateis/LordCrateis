@@ -24,7 +24,7 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&hide_border=true&background=0D1117&ring=B91C1C&fire=B91C1C&currStreakLabel=B91C1C&sideLabels=F0F0F0&currStreakNum=F0F0F0&sideNums=F0F0F0&dates=8B949E
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STREAK_STATS_TOKEN }}
 
       - name: Commit updated card
         run: |
