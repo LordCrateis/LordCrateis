@@ -177,6 +177,16 @@ MODE         build → deploy → break → rebuild
 
 <br />
 
+### `// COMMIT VELOCITY`
+
+<sub>consistency, measured in shipped work</sub>
+
+<br />
+
+[![GitHub Streak](./profile/streak.svg)](https://git.io/streak-stats)
+
+<br />
+
 [![View GitHub activity](https://img.shields.io/badge/ACTIVITY-OPEN%20CONTRIBUTION%20GRAPH-b91c1c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordCrateis?tab=overview)
 
 <br />
@@ -197,4 +207,3 @@ MODE         build → deploy → break → rebuild
 </div>
 
 <img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0d1117,55:23070b,100:b91c1c" />
-
