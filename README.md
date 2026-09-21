@@ -70,26 +70,28 @@ One million U.S. flights turned into an operational delay-analysis system and ri
 </td>
 <td width="50%" valign="top">
 
-### `04 // OLIST`
+### `04 // WELLFARM`
 
-Roughly 100,000 Brazilian e-commerce orders modeled, audited, and analyzed across commercial, delivery, and customer signals.
+Crop-health intelligence that turns field photographs into ranked condition indications, private scan history, and regional outbreak signals.
 
-`PostgreSQL` · `Polars` · `Power BI`
+`React` · `TypeScript` · `PyTorch` · `Supabase`
 
-[→ inspect the analysis](https://github.com/LordCrateis/olist-ecommerce-analytics)
+**63,011 curated images across 54 labels and eight crops.**
+
+[→ inspect the system](https://github.com/LordCrateis/Wellfarm) · [live site ↗](https://wellfarm.shivambuilds.dev)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `05 // NUTRICORE AI`
+### `05 // NAGARIK`
 
-Nutrition planning engine powered by cached gradient-boosting regressors and served through a Flask API.
+Citizen-benefits decision engine that evaluates eligibility, detects incompatible schemes, optimizes a valid bundle, and builds a document-first application plan.
 
-`Flask` · `scikit-learn` · `Docker`
+`React` · `TypeScript` · `Express` · `Zod`
 
-[→ inspect the engine](https://github.com/LordCrateis/nutricore-ai)
+[→ inspect the navigator](https://github.com/LordCrateis/Nagarik)
 
 </td>
 <td width="50%" valign="top">
